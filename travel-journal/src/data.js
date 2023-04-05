@@ -1,15 +1,4 @@
 export default [
-
-    {
-        place:'Thailand',
-        startDate:'March 01, 2023',
-        endDate:'March 30, 2023',
-        description:`Located in the heart of mainland Southeast Asia, Thailand is a country of mountains, 
-        hills, plains and a long coastline along the Gulf of Thailand (1,875 km) and the Andaman Sea 
-        (740 km), not including the coastlines of some 400 islands, most of them in the Andaman Sea.`,
-        google:'https://www.google.com/maps/place/Thailand/',
-        pic:'thailand.jpg'
-    },
     {
         place:'Lison, Portugal',
         startDate:'November 01, 2022',
@@ -39,6 +28,16 @@ export default [
           of great art, and for the distinctive colour and flavour of its old sections, which have been so well preserved.`,
         google:'https://www.google.com/maps/place/Amsterdam,+Netherlands',
         pic:'amsterdam.jpg'
+    },
+    {
+        place:'Thailand',
+        startDate:'March 01, 2023',
+        endDate:'March 30, 2023',
+        description:`Located in the heart of mainland Southeast Asia, Thailand is a country of mountains, 
+        hills, plains and a long coastline along the Gulf of Thailand and the Andaman Sea, not including 
+        the coastlines of some 400 islands, most of them in the Andaman Sea.`,
+        google:'https://www.google.com/maps/place/Thailand/',
+        pic:'thailand.jpg'
     },
 
 

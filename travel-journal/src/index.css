@@ -30,4 +30,10 @@ body {
 
 .cardinfo {
     padding: 2em;
+    display:flex;
+    flex-direction: column;
+}
+
+.cardinfo > a {
+    margin-top:auto;
 }
