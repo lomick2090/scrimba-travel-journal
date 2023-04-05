@@ -11,7 +11,7 @@ export default [
         pic:'thailand.jpg'
     },
     {
-        place:'Lison Portugal',
+        place:'Lison, Portugal',
         startDate:'November 01, 2022',
         endDate:'November 08, 2022',
         description:`Lisbon is the capital and the largest city of Portugal. With over 20 centuries of History, 
